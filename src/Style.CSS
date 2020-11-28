@@ -11,7 +11,7 @@
       }
       .content-service {
         width: 33,3%;
-        background-color: blue;
+        background-color:#647475;
         margin-right: 0.5pc;
         margin-left: 0.5pc;
         
@@ -91,7 +91,7 @@
         margin-top: 2.5pc;
         margin-bottom: 1.5pc;
         height: auto;
-    background-color: antiquewhite;
+    background-color:#9AB2B5;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -101,6 +101,7 @@
     }
         .title-principal{
             text-align: end;
+            
             width: 60%;
             height: 120px;
             margin-bottom: 1pc;
@@ -133,7 +134,7 @@
         .main-menu__link{
             text-decoration: underline;
             font-weight: unset;
-            color: rgb(238, 14, 14);
+            color: #BAD8DB;
            
         }
         .space{
