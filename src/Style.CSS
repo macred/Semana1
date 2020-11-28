@@ -62,7 +62,7 @@
       }
       .content-team {
         width: 50%;
-        background-color: yellow;
+        background-color: #C4DBE3;
         margin-left: 2pc;
         margin-right: 2pc;
       }
@@ -85,6 +85,9 @@
       
 #pie {
     font-family: Verdana, Tahoma, sans-serif;
+    text-align: justify
+    display: flex;
+    width:85%
     } 
 
     .barra-menu{
@@ -179,13 +182,13 @@
 
         .info-proy{
             width: 100%;
-            background-color: rgb(192, 151, 16);
+            background-color: #657175;
             text-align: center;
             margin-top: 2pc;
         }
         .contact{
             width: 100%;
-            background-color: rgb(133, 133, 224);
+            background-color: rgb(200, 200, 221);
             text-align: center;
             margin-top: 2pc;
         }
