@@ -137,7 +137,7 @@
         .main-menu__link{
             text-decoration: underline;
             font-weight: unset;
-            color: #BAD8DB;
+            color: #c5d6d8;
            
         }
         .space{
@@ -183,13 +183,13 @@
         .info-proy{
             width: 100%;
             background-color: #657175;
-            text-align: center;
+            text-align: left;
             margin-top: 2pc;
         }
         .contact{
             width: 100%;
             background-color: rgb(200, 200, 221);
-            text-align: center;
+            text-align: left;
             margin-top: 2pc;
         }
 
