@@ -20,11 +20,24 @@
         display: block;
         margin: auto;
       }
+      .img-serviceprin{
+        display: block;
+        margin: auto;
+        margin-top: 3pc;
+        margin-bottom: 3pc;
+    }
+      
       .text-service{
         margin-left: 4pc;
         margin-right: 1.5pc;
         text-align: justify;
         margin-bottom: 3pc;
+      }
+      .text-serviceprin{
+        margin-left: 4pc;
+        margin-right: 1.5pc;
+        text-align: justify;
+        margin-bottom: 5pc;
       }
       .text-service h2{
         margin-left: 4pc;
@@ -107,7 +120,20 @@
         }
         .main-menu__link:hover{
             text-decoration: underline;
-            font-weight: bold;
+            font-weight: unset;
+            color: silver;
+           
+        }
+        .main-menu__link:active{
+            text-decoration: underline;
+            font-weight: unset;
+            color: silver;
+           
+        }
+        .main-menu__link{
+            text-decoration: underline;
+            font-weight: unset;
+            color: rgb(238, 14, 14);
            
         }
         .space{
@@ -120,6 +146,7 @@
             list-style: none;
             justify-content: space-between;
             text-decoration: underline;
+            color: rgb(241, 20, 20);
         }
 
         .banner{
@@ -128,7 +155,13 @@
             width: 1500px;
             margin-bottom: 1.5pc;
         }
-
+        .menu-principal-service{
+            display: flex;
+            list-style: none;
+            justify-content: space-between;
+           
+            color: rgb(10, 10, 10);
+        }
 
         .noticia{
             display: flex;
@@ -152,7 +185,7 @@
         .contact{
             width: 100%;
             background-color: rgb(133, 133, 224);
-            align-items: center;
+            text-align: center;
             margin-top: 2pc;
         }
 
